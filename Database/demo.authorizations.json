@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65ae28dcfecf91af9ce674e2"
+  },
+  "levelName": "Employee",
+  "description": "",
+  "createdAt": 1705912540,
+  "updatedAt": 1705912540
+},
+{
+  "_id": {
+    "$oid": "65ae373efb3b6a086c342dd5"
+  },
+  "levelName": "Manager",
+  "description": "",
+  "createdAt": 1705916222,
+  "updatedAt": 1705916222
+},
+{
+  "_id": {
+    "$oid": "65dc44b06df3b5b24485b8a6"
+  },
+  "levelName": "Admin",
+  "description": "",
+  "createdAt": 1708934320,
+  "updatedAt": 1708934320
+},
+{
+  "_id": {
+    "$oid": "6637422af279f7af049cd019"
+  },
+  "levelName": "Director",
+  "description": "",
+  "createdAt": 1714897450,
+  "updatedAt": 1714897450
+},
+{
+  "_id": {
+    "$oid": "66389a78989a0741d799b8d1"
+  },
+  "levelName": "Customer",
+  "description": "",
+  "createdAt": 1714985592,
+  "updatedAt": 1714985592
+}]

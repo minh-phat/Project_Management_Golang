@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6625d856062e1fca720026c9"
+  },
+  "fullname": "phat",
+  "profile_image": "profile_image_default.jpg",
+  "office": 0,
+  "department": 1,
+  "position": 3,
+  "manager_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "phone": "46465484",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "asdfasdfadf",
+  "createdAt": 1713967035,
+  "updatedAt": 1713885274
+},
+{
+  "_id": {
+    "$oid": "662911dd48135cc5ddb45ed9"
+  },
+  "fullname": "manager",
+  "profile_image": "profile_image_default.jpg",
+  "office": 0,
+  "department": 0,
+  "position": 0,
+  "manager_id": {
+    "$oid": "663742f3f279f7af049cd01f"
+  },
+  "phone": "1234567890",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "123123",
+  "createdAt": 1713967581,
+  "updatedAt": 1714897865
+},
+{
+  "_id": {
+    "$oid": "66373de0f279f7af049cd015"
+  },
+  "fullname": "phat employee",
+  "profile_image": "profile_image_default.jpg",
+  "office": 0,
+  "department": 0,
+  "position": 1,
+  "manager_id": {
+    "$oid": "662911dd48135cc5ddb45edb"
+  },
+  "phone": "1234567890",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "123123",
+  "createdAt": 1714896352,
+  "updatedAt": 1715655838
+},
+{
+  "_id": {
+    "$oid": "663742f3f279f7af049cd01d"
+  },
+  "fullname": "phat director",
+  "profile_image": "profile_image_default.jpg",
+  "office": 0,
+  "department": 0,
+  "position": 0,
+  "manager_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "phone": "1234567890",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "123123",
+  "createdAt": 1714897651,
+  "updatedAt": 1714897651
+},
+{
+  "_id": {
+    "$oid": "66389ac1989a0741d799b8d5"
+  },
+  "fullname": "phat customer",
+  "profile_image": "profile_image_default.jpg",
+  "office": -1,
+  "department": -1,
+  "position": -1,
+  "manager_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "phone": "0384026397",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "aaa",
+  "createdAt": 1714985665,
+  "updatedAt": 1714987285
+},
+{
+  "_id": {
+    "$oid": "6638a841989a0741d799b8db"
+  },
+  "fullname": "phat2 customer",
+  "profile_image": "profile_image_default.jpg",
+  "office": -1,
+  "department": -1,
+  "position": -1,
+  "manager_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "phone": "0384026397",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "aaa",
+  "createdAt": 1714989121,
+  "updatedAt": 1714989121
+},
+{
+  "_id": {
+    "$oid": "663c7db4a021a00dfd02de6b"
+  },
+  "fullname": "phat2 employee",
+  "profile_image": "profile_image_default.jpg",
+  "office": 0,
+  "department": 2,
+  "position": 4,
+  "manager_id": {
+    "$oid": "662911dd48135cc5ddb45edb"
+  },
+  "phone": "0384026397",
+  "email": "nguyenleminhkhang0608@gmail.com",
+  "gender": 0,
+  "address": "aaa",
+  "createdAt": 1715240372,
+  "updatedAt": 1715240439
+}]

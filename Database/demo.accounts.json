@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6625d856062e1fca720026c7"
+  },
+  "username": "phat",
+  "password": "2432612431352475455a69483355716e615459614e4f557376666d6f755146364e6468447162616a4e74637541516647416f314b45553531467a6b79",
+  "account_name": "phat ne",
+  "account_authorization_id": {
+    "$oid": "65dc44b06df3b5b24485b8a6"
+  },
+  "createdAt": 1713756246,
+  "updatedAt": 1713885274
+},
+{
+  "_id": {
+    "$oid": "662911dd48135cc5ddb45ed7"
+  },
+  "username": "manager",
+  "password": "24326124313524514341594356743570616d435178437459633264722e354a3045705043733649594d30595a6975415362316646523630744f733275",
+  "account_name": "manager",
+  "account_authorization_id": {
+    "$oid": "65ae373efb3b6a086c342dd5"
+  },
+  "createdAt": 1713967581,
+  "updatedAt": 1714897865
+},
+{
+  "_id": {
+    "$oid": "66373de0f279f7af049cd013"
+  },
+  "username": "phat employee",
+  "password": "2432612431352477584c3755325931794b51734c79357144334a55707558354b507738376a3369557044673136777337337970503863347255487779",
+  "account_name": "phat employee",
+  "account_authorization_id": {
+    "$oid": "65ae28dcfecf91af9ce674e2"
+  },
+  "createdAt": 1714896352,
+  "updatedAt": 1715655838
+},
+{
+  "_id": {
+    "$oid": "663742f3f279f7af049cd01b"
+  },
+  "username": "phat director",
+  "password": "24326124313524394a7261356366436453594e79776e4a4f324346414f5457487666635a4161514535785837494d6d6f4b71685337377a725254506d",
+  "account_name": "phat director",
+  "account_authorization_id": {
+    "$oid": "6637422af279f7af049cd019"
+  },
+  "createdAt": 1714897651,
+  "updatedAt": 1714897651
+},
+{
+  "_id": {
+    "$oid": "66389ac1989a0741d799b8d3"
+  },
+  "username": "phat customer",
+  "password": "2432612431352476523949665974415a396c6654476a6d444a5a6f4675327a415136717a32694b43646b4d63734c693961626c734266476545376157",
+  "account_name": "phat customer",
+  "account_authorization_id": {
+    "$oid": "66389a78989a0741d799b8d1"
+  },
+  "createdAt": 1714985665,
+  "updatedAt": 1714987285
+},
+{
+  "_id": {
+    "$oid": "6638a841989a0741d799b8d9"
+  },
+  "username": "phat2 customer",
+  "password": "2432612431352448534f7953704941634749797a30596b616a35346e6555364d2f44724653723379746954326330492e377248616c64797178382e61",
+  "account_name": "phat2 customer",
+  "account_authorization_id": {
+    "$oid": "66389a78989a0741d799b8d1"
+  },
+  "createdAt": 1714989121,
+  "updatedAt": 1714989121
+},
+{
+  "_id": {
+    "$oid": "663c7db4a021a00dfd02de69"
+  },
+  "username": "phat2 employee",
+  "password": "24326124313524496e794b63723551344c624e2f5337374b686538692e6a63716f684938616e6570423241637462347971396f536e2f7171777a5953",
+  "account_name": "phat2 employee",
+  "account_authorization_id": {
+    "$oid": "65ae28dcfecf91af9ce674e2"
+  },
+  "createdAt": 1715240372,
+  "updatedAt": 1715240439
+}]
